@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZendaAdventure.CSharp", "ZendaAdventure.CSharp.csproj", "{7A57CC00-93CF-9196-3BE1-3198F8072920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZendaAdventure.CSharp.Plugins", "ZendaAdventure.CSharp.Plugins.csproj", "{95DA517B-BBB6-A987-09CB-AE035EE6A713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZendaAdventure.CSharp.Editor.Plugins", "ZendaAdventure.CSharp.Editor.Plugins.csproj", "{C12BB604-C255-5B51-7AE7-9526F3F76E0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A57CC00-93CF-9196-3BE1-3198F8072920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A57CC00-93CF-9196-3BE1-3198F8072920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A57CC00-93CF-9196-3BE1-3198F8072920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A57CC00-93CF-9196-3BE1-3198F8072920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95DA517B-BBB6-A987-09CB-AE035EE6A713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DA517B-BBB6-A987-09CB-AE035EE6A713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DA517B-BBB6-A987-09CB-AE035EE6A713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DA517B-BBB6-A987-09CB-AE035EE6A713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C12BB604-C255-5B51-7AE7-9526F3F76E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12BB604-C255-5B51-7AE7-9526F3F76E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12BB604-C255-5B51-7AE7-9526F3F76E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12BB604-C255-5B51-7AE7-9526F3F76E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
