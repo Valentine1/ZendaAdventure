@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectAdventure-master.CSharp", "ProjectAdventure-master.CSharp.csproj", "{D7766B37-8238-D7AD-5054-CBE9137456BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectAdventure-master.CSharp.Plugins", "ProjectAdventure-master.CSharp.Plugins.csproj", "{6C1AADC2-8A38-3F19-4058-BA15DEF3D764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectAdventure-master.CSharp.Editor.Plugins", "ProjectAdventure-master.CSharp.Editor.Plugins.csproj", "{74CEA03A-8EA6-D9CF-221F-8FE95F353782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7766B37-8238-D7AD-5054-CBE9137456BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7766B37-8238-D7AD-5054-CBE9137456BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7766B37-8238-D7AD-5054-CBE9137456BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7766B37-8238-D7AD-5054-CBE9137456BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1AADC2-8A38-3F19-4058-BA15DEF3D764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1AADC2-8A38-3F19-4058-BA15DEF3D764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1AADC2-8A38-3F19-4058-BA15DEF3D764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1AADC2-8A38-3F19-4058-BA15DEF3D764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74CEA03A-8EA6-D9CF-221F-8FE95F353782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CEA03A-8EA6-D9CF-221F-8FE95F353782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CEA03A-8EA6-D9CF-221F-8FE95F353782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CEA03A-8EA6-D9CF-221F-8FE95F353782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
