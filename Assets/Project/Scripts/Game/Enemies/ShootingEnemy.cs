@@ -24,7 +24,7 @@ public class ShootingEnemy : Enemy {
         if (rotationTimer <= 0)
         {
             rotationTimer = timeToRotate;
-            targetAngle += 90;
+            targetAngle += Random.Range(45, 90);
             if (bulletPrefab != null)
             {
                 GameObject bullet = Instantiate(bulletPrefab);
